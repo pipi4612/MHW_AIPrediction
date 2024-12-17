@@ -1,0 +1,398 @@
+Timestamp(100ns),Name,ActionID,ActionReferenceName,ActionName
+8526014880,œç±Mýˆ,3,nActEm103::Walk,Walk
+8533675997,œç±Mýˆ,31,nActEm103::Search,Search
+9463364653,œç±Mýˆ,3,nActEm103::Walk,Walk
+9530862967,œç±Mýˆ,39,nActEm103::Marking,Marking
+9572190205,œç±Mýˆ,30,nActEm103::ThreatShort,Threat Short
+9599080014,œç±Mýˆ,3,nActEm103::Walk,Walk
+9665118535,œç±Mýˆ,31,nActEm103::Search,Search
+9722250139,œç±Mýˆ,3,nActEm103::Walk,Walk
+9791222116,œç±Mýˆ,39,nActEm103::Marking,Marking
+9910992349,œç±Mýˆ,127,nActEm103::DamageRideAccept,Damage Ride Accept
+9927727628,œç±Mýˆ,106,nActEm103::RideWait,Ride Wait
+9947536664,œç±Mýˆ,4,nActEm103::Dash,Dash
+9966154548,œç±Mýˆ,101,nActEm103::RideRageCrashBody,Ride Rage Crash Body
+9986199113,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+10028030408,œç±Mýˆ,105,nActEm103::RideTired,Ride Tired
+10090248302,œç±Mýˆ,29,nActEm103::Discover,Discover
+10092455340,œç±Mýˆ,128,nActEm103::DamageRideDown,Damage Ride Down
+10232137103,œç±Mýˆ,82,nActEm103::SideStep,Side Step
+10289970795,œç±Mýˆ,63,nActEm103::TailSlap,Tail Slap
+10315796521,œç±Mýˆ,62,nActEm103::LeftSideTackle,Left Side Tackle
+10319740260,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+10330477545,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+10341737113,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+10350659588,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+10354284894,œç±Mýˆ,144,nActEm103::DamageClawGrabChance,Damage Claw Grab Chance
+10417906769,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+10429377144,œç±Mýˆ,47,nActEm103::ToPunchWait2Near,To Punch Wait2 Near
+10438779300,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+10485238357,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+10501161383,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+10512618667,œç±Mýˆ,46,nActEm103::ToPunchWait2,To Punch Wait2
+10521724210,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+10545007638,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+10585331374,œç±Mýˆ,63,nActEm103::TailSlap,Tail Slap
+10611375462,œç±Mýˆ,55,nActEm103::RHandJab,R Hand Jab
+10631907267,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+10640754169,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+10652655585,œç±Mýˆ,74,nActEm103::ToHeadAttackR,To Head Attack R
+10670230556,œç±Mýˆ,111,nActEm103::DamageDown,Damage Down
+10774170634,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+10785993085,œç±Mýˆ,47,nActEm103::ToPunchWait2Near,To Punch Wait2 Near
+10794635382,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+10816795973,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+10827735228,œç±Mýˆ,55,nActEm103::RHandJab,R Hand Jab
+10846997116,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+10858068807,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+10871300473,œç±Mýˆ,73,nActEm103::ToHeadAttackL,To Head Attack L
+10899751587,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+10903930586,œç±Mýˆ,144,nActEm103::DamageClawGrabChance,Damage Claw Grab Chance
+10966523438,œç±Mýˆ,78,nActEm103::LongRangeAttack,Long Range Attack
+10978340687,œç±Mýˆ,79,nActEm103::ToLongRangeAttack,To Long Range Attack
+11024258924,œç±Mýˆ,82,nActEm103::SideStep,Side Step
+11053159859,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+11062648809,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+11075485034,œç±Mýˆ,74,nActEm103::ToHeadAttackR,To Head Attack R
+11103600194,œç±Mýˆ,63,nActEm103::TailSlap,Tail Slap
+11130477235,œç±Mýˆ,29,nActEm103::Discover,Discover
+11164031180,œç±Mýˆ,111,nActEm103::DamageDown,Damage Down
+11267760290,œç±Mýˆ,29,nActEm103::Discover,Discover
+11317656580,œç±Mýˆ,61,nActEm103::LHandUpper,L Hand Upper
+11361816654,œç±Mýˆ,146,nActEm103::DyingWalk,Dying Walk
+11613053089,œç±Mýˆ,147,nActEm103::DyingSleep,Dying Sleep
+11709230417,œç±Mýˆ,111,nActEm103::DamageDown,Damage Down
+11811267291,œç±Mýˆ,29,nActEm103::Discover,Discover
+11860866118,œç±Mýˆ,84,nActEm103::WallBreakAttack,Wall Break Attack
+11912124384,œç±Mýˆ,85,nActEm103::ToWallBreakAttackJump,To Wall Break Attack Jump
+11930822842,œç±Mýˆ,86,nActEm103::ToWallBreakAttack,To Wall Break Attack
+11990911485,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+11999673722,œç±Mýˆ,63,nActEm103::TailSlap,Tail Slap
+12025179982,œç±Mýˆ,69,nActEm103::FlyingAttack,Flying Attack
+12057627746,œç±Mýˆ,70,nActEm103::ToFlyingAttackJump,To Flying Attack Jump
+12076352735,œç±Mýˆ,71,nActEm103::ToFlyingAttack,To Flying Attack
+12133700916,œç±Mýˆ,40,nActEm103::SuperModeBegin,Super Mode Begin
+12218432457,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+12230909619,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+12242300810,œç±Mýˆ,74,nActEm103::ToHeadAttackR,To Head Attack R
+12254866695,œç±Mýˆ,148,nActEm103::Die,Die
+13102005578,œç±Mýˆ,0,,
+13148038323,,-1,,
+14990545634,œç±Mýˆ,30,nActEm103::ThreatShort,Threat Short
+15016790495,œç±Mýˆ,3,nActEm103::Walk,Walk
+15085048005,œç±Mýˆ,31,nActEm103::Search,Search
+15145023064,œç±Mýˆ,3,nActEm103::Walk,Walk
+15182748327,œç±Mýˆ,29,nActEm103::Discover,Discover
+15235025788,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+15247130795,œç±Mýˆ,46,nActEm103::ToPunchWait2,To Punch Wait2
+15256317807,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+15307543773,œç±Mýˆ,82,nActEm103::SideStep,Side Step
+15336959204,œç±Mýˆ,62,nActEm103::LeftSideTackle,Left Side Tackle
+15387528762,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+15407785786,œç±Mýˆ,31,nActEm103::Search,Search
+15465068830,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+15500195550,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+15510343045,œç±Mýˆ,31,nActEm103::Search,Search
+15624769425,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+15634847095,œç±Mýˆ,31,nActEm103::Search,Search
+15752659210,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+15762859193,œç±Mýˆ,31,nActEm103::Search,Search
+15996990533,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+16007231469,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+16044007406,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+16054189268,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+16071729173,œç±Mýˆ,31,nActEm103::Search,Search
+16128821151,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+16147492496,œç±Mýˆ,31,nActEm103::Search,Search
+16262456834,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+16279923072,œç±Mýˆ,31,nActEm103::Search,Search
+16453674919,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+16474123486,œç±Mýˆ,31,nActEm103::Search,Search
+16761756565,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+16782179867,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+16799703465,œç±Mýˆ,31,nActEm103::Search,Search
+17032230885,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+17042533684,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17059476949,œç±Mýˆ,65,nActEm103::RArmJumpAttack,R Arm Jump Attack
+17101208912,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17112375034,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+17121509574,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+17125910705,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+17137957024,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17150642772,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+17162867591,œç±Mýˆ,74,nActEm103::ToHeadAttackR,To Head Attack R
+17191644426,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+17204615136,œç±Mýˆ,46,nActEm103::ToPunchWait2,To Punch Wait2
+17213664584,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+17223468596,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+17234398912,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17237845776,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+17279740013,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17289743010,œç±Mýˆ,107,nActEm103::DamageLow,Damage Low
+17305723650,œç±Mýˆ,29,nActEm103::Discover,Discover
+17356247022,œç±Mýˆ,63,nActEm103::TailSlap,Tail Slap
+17382382951,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+17395020624,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+17403805772,œç±Mýˆ,55,nActEm103::RHandJab,R Hand Jab
+17424340842,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+17424540982,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+17451571549,œç±Mýˆ,68,nActEm103::ShortHeadbutt,Short Headbutt
+17475160262,œç±Mýˆ,111,nActEm103::DamageDown,Damage Down
+17574619342,œç±Mýˆ,61,nActEm103::LHandUpper,L Hand Upper
+17618201939,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+17629481551,œç±Mýˆ,73,nActEm103::ToHeadAttackL,To Head Attack L
+17658001332,œç±Mýˆ,61,nActEm103::LHandUpper,L Hand Upper
+17701443094,œç±Mýˆ,67,nActEm103::WingAttack,Wing Attack
+17751885495,œç±Mýˆ,61,nActEm103::LHandUpper,L Hand Upper
+17839891196,œç±Mýˆ,56,nActEm103::LHandJab,L Hand Jab
+17859897752,œç±Mýˆ,55,nActEm103::RHandJab,R Hand Jab
+17869328301,œç±Mýˆ,144,nActEm103::DamageClawGrabChance,Damage Claw Grab Chance
+17932784443,œç±Mýˆ,56,nActEm103::LHandJab,L Hand Jab
+17952553943,œç±Mýˆ,45,nActEm103::Punch2,Punch2
+17964196848,œç±Mýˆ,47,nActEm103::ToPunchWait2Near,To Punch Wait2 Near
+17972946458,œç±Mýˆ,43,nActEm103::ToPunch,To Punch
+18022393519,œç±Mýˆ,62,nActEm103::LeftSideTackle,Left Side Tackle
+18070465566,œç±Mýˆ,55,nActEm103::RHandJab,R Hand Jab
+18092994741,œç±Mýˆ,56,nActEm103::LHandJab,L Hand Jab
+18133189724,œç±Mýˆ,72,nActEm103::HeadAttack,Head Attack
+18144853950,œç±Mýˆ,73,nActEm103::ToHeadAttackL,To Head Attack L
+18172326537,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+18188219404,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+18196668158,œç±Mýˆ,78,nActEm103::LongRangeAttack,Long Range Attack
+18207982052,œç±Mýˆ,79,nActEm103::ToLongRangeAttack,To Long Range Attack
+18251963462,œç±Mýˆ,82,nActEm103::SideStep,Side Step
+18280428018,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+18286839210,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+18327824307,œç±Mýˆ,78,nActEm103::LongRangeAttack,Long Range Attack
+18340380588,œç±Mýˆ,79,nActEm103::ToLongRangeAttack,To Long Range Attack
+18384077211,œç±Mýˆ,62,nActEm103::LeftSideTackle,Left Side Tackle
+18432561266,œç±Mýˆ,56,nActEm103::LHandJab,L Hand Jab
+18453080222,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+18463810336,œç±Mýˆ,65,nActEm103::RArmJumpAttack,R Arm Jump Attack
+18502245007,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+18520008592,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+18533776838,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+18542867600,œç±Mýˆ,40,nActEm103::SuperModeBegin,Super Mode Begin
+18628129101,œç±Mýˆ,52,nActEm103::RArmSideSwing,R Arm Side Swing
+18637222577,œç±Mýˆ,144,nActEm103::DamageClawGrabChance,Damage Claw Grab Chance
+18700416983,œç±Mýˆ,29,nActEm103::Discover,Discover
+18749080264,œç±Mýˆ,80,nActEm103::MidRangePunch,Mid Range Punch
+18782725211,œç±Mýˆ,59,nActEm103::LRHandJab,L R Hand Jab
+18796165289,œç±Mýˆ,60,nActEm103::ToLRHandJab,To L R Hand Jab
+18814119070,œç±Mýˆ,52,nActEm103::RArmSideSwing,R Arm Side Swing
+18823633047,œç±Mýˆ,53,nActEm103::ToRArmSideSwingWait,To R Arm Side Swing Wait
+18828284446,œç±Mýˆ,54,nActEm103::ToRArmSideSwing,To R Arm Side Swing
+18865713504,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+18874083279,œç±Mýˆ,64,nActEm103::TailSweep,Tail Sweep
+18913343772,œç±Mýˆ,75,nActEm103::JumpPunchWingMode,Jump Punch Wing Mode
+18923123280,œç±Mýˆ,76,nActEm103::ToJumpPunchWingModeWait,To Jump Punch Wing Mode Wait
+18937085557,œç±Mýˆ,77,nActEm103::ToJumpPunchWingMode,To Jump Punch Wing Mode
+18987434422,œç±Mýˆ,80,nActEm103::MidRangePunch,Mid Range Punch
+19020736796,œç±Mýˆ,64,nActEm103::TailSweep,Tail Sweep
+19060298629,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+19070544151,œç±Mýˆ,81,nActEm103::FrontStep,Front Step
+19079070743,œç±Mýˆ,69,nActEm103::FlyingAttack,Flying Attack
+19108435216,œç±Mýˆ,70,nActEm103::ToFlyingAttackJump,To Flying Attack Jump
+19126734066,œç±Mýˆ,71,nActEm103::ToFlyingAttack,To Flying Attack
+19181881833,œç±Mýˆ,78,nActEm103::LongRangeAttack,Long Range Attack
+19193132514,œç±Mýˆ,79,nActEm103::ToLongRangeAttack,To Long Range Attack
+19235461195,œç±Mýˆ,30,nActEm103::ThreatShort,Threat Short
+19260783061,œç±Mýˆ,4,nActEm103::Dash,Dash
+19333397194,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+19342941826,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+19359532125,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+19369019303,œç±Mýˆ,31,nActEm103::Search,Search
+19422025688,œç±Mýˆ,38,nActEm103::Refresh,Refresh
+19438203896,œç±Mýˆ,32,nActEm103::SearchLost,Search Lost
+19447881049,œç±Mýˆ,31,nActEm103::Search,Search
+19500975142,œç±Mýˆ,6,nActEm103::QuickTurn,Quick Turn
+19512722060,œç±Mýˆ,4,nActEm103::Dash,Dash
+19515049750,œç±Mýˆ,127,nActEm103::DamageRideAccept,Damage Ride Accept
+19529036402,œç±Mýˆ,106,nActEm103::RideWait,Ride Wait
+19546495236,œç±Mýˆ,93,nActEm103::RideRageHead,Ride Rage Head
+19602525845,œç±Mýˆ,95,nActEm103::RideRageBody,Ride Rage Body
+19661388272,œç±Mýˆ,109,nActEm103::DamageHigh,Damage High
+19700057881,œç±Mýˆ,105,nActEm103::RideTired,Ride Tired
+19759626561,œç±Mýˆ,4,nActEm103::Dash,Dash
+19769579627,œç±Mýˆ,128,nActEm103::DamageRideDown,Damage Ride Down
+19906893456,œç±Mýˆ,146,nActEm103::DyingWalk,Dying Walk
+20008511340,œç±Mýˆ,144,nActEm103::DamageClawGrabChance,Damage Claw Grab Chance
+20046776474,œç±Mýˆ,148,nActEm103::Die,Die
+21160710151,œç±Mýˆ,-1,,
+22345728734,÷è÷ë,5,nActEm011::Walk,Walk
+22388396109,÷è÷ë,18,nActEm011::Jump,Jump
+22438493538,÷è÷ë,5,nActEm011::Walk,Walk
+22635605168,÷è÷ë,20,nActEm011::Jump,Jump
+22676545686,÷è÷ë,5,nActEm011::Walk,Walk
+22818514849,÷è÷ë,4,nActEm011::Search,Search
+22865484783,÷è÷ë,5,nActEm011::Walk,Walk
+22938062770,÷è÷ë,4,nActEm011::Search,Search
+22985431976,÷è÷ë,5,nActEm011::Walk,Walk
+23053548461,÷è÷ë,41,nActEm011::RideRageAccept,Ride Rage Accept
+23069081825,÷è÷ë,38,nActEm011::RideRageBody,Ride Rage Body
+23109019246,÷è÷ë,34,nActEm011::RideRageNeck,Ride Rage Neck
+23153182225,÷è÷ë,7,nActEm011::Dash,Dash
+23184124235,÷è÷ë,36,nActEm011::RideRageCrashBody,Ride Rage Crash Body
+23217045338,÷è÷ë,80,nActEm011::DamageHigh,Damage High
+23233512053,÷è÷ë,73,nActEm011::Intimidation,Intimidation
+23242146825,÷è÷ë,80,nActEm011::DamageHigh,Damage High
+23257408780,÷è÷ë,43,nActEm011::RideTired,Ride Tired
+23330334901,÷è÷ë,42,nActEm011::RideSuccess,Ride Success
+23442369902,÷è÷ë,74,nActEm011::CombatSign,Combat Sign
+23459180829,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+23467309099,÷è÷ë,80,nActEm011::DamageHigh,Damage High
+23484578079,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+23486572406,÷è÷ë,79,nActEm011::DamageLow,Damage Low
+23496485354,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+23536749220,÷è÷ë,51,nActEm011::HeadButtRushOneLoop,Head Butt Rush One Loop
+23570241652,÷è÷ë,50,nActEm011::HeadButtRush,Head Butt Rush
+23583160526,÷è÷ë,79,nActEm011::DamageLow,Damage Low
+23592727793,÷è÷ë,50,nActEm011::HeadButtRush,Head Butt Rush
+23669176580,÷è÷ë,119,nActEm011::WalkTurn,Walk Turn
+23707747048,÷è÷ë,75,nActEm011::HornAttack,Horn Attack
+23720711841,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+23759934681,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+23768602072,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+23809098572,÷è÷ë,45,nActEm011::Refresh,Refresh
+23829719608,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+23839551022,÷è÷ë,65,nActEm011::PeripheralLightning4,Peripheral Lightning4
+23866912930,÷è÷ë,45,nActEm011::Refresh,Refresh
+23887474618,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+23895064706,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+23896708484,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+23905606641,÷è÷ë,7,nActEm011::Dash,Dash
+23913003279,÷è÷ë,52,nActEm011::ContinuousHeadSwing,Continuous Head Swing
+23943756249,÷è÷ë,45,nActEm011::Refresh,Refresh
+23964120362,÷è÷ë,50,nActEm011::HeadButtRush,Head Butt Rush
+24002487078,÷è÷ë,55,nActEm011::MultiLightningStrikeStart,Multi Lightning Strike Start
+24022517774,÷è÷ë,56,nActEm011::MultiLightningStrikeMain,Multi Lightning Strike Main
+24050757272,÷è÷ë,7,nActEm011::Dash,Dash
+24058910179,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+24066489960,÷è÷ë,61,nActEm011::GoroundContainingAfterR,Goround Containing After R
+24068541755,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+24077094933,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+24117826821,÷è÷ë,45,nActEm011::Refresh,Refresh
+24138290370,÷è÷ë,51,nActEm011::HeadButtRushOneLoop,Head Butt Rush One Loop
+24170855320,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+24211753621,÷è÷ë,45,nActEm011::Refresh,Refresh
+24232361914,÷è÷ë,7,nActEm011::Dash,Dash
+24238509976,÷è÷ë,52,nActEm011::ContinuousHeadSwing,Continuous Head Swing
+24269440873,÷è÷ë,49,nActEm011::BackKick,Back Kick
+24311464267,÷è÷ë,72,nActEm011::ChargeTransfer,Charge Transfer
+24358568487,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+24389575402,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+24428138845,÷è÷ë,49,nActEm011::BackKick,Back Kick
+24468416452,÷è÷ë,55,nActEm011::MultiLightningStrikeStart,Multi Lightning Strike Start
+24486263622,÷è÷ë,56,nActEm011::MultiLightningStrikeMain,Multi Lightning Strike Main
+24513577259,÷è÷ë,57,nActEm011::ZigzagStep,Zigzag Step
+24532479357,÷è÷ë,7,nActEm011::Dash,Dash
+24549293387,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+24556529315,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+24558408852,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+24577466010,÷è÷ë,88,nActEm011::DamageSleep,Damage Sleep
+24659210550,÷è÷ë,91,nActEm011::DamageSleepEnd,Damage Sleep End
+24695382643,÷è÷ë,74,nActEm011::CombatSign,Combat Sign
+24711922596,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+24720880760,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+24753348126,÷è÷ë,49,nActEm011::BackKick,Back Kick
+24773285216,÷è÷ë,83,nActEm011::DamageDown,Damage Down
+24883703690,÷è÷ë,74,nActEm011::CombatSign,Combat Sign
+24885673768,÷è÷ë,109,nActEm011::DamageClawGrabChance,Damage Claw Grab Chance
+24947701542,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+24979155597,÷è÷ë,63,nActEm011::PeripheralLightning2,Peripheral Lightning2
+25005575486,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+25015306543,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25023910481,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+25054853156,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+25093641030,÷è÷ë,49,nActEm011::BackKick,Back Kick
+25173814251,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25180486750,÷è÷ë,61,nActEm011::GoroundContainingAfterR,Goround Containing After R
+25182500323,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25190877706,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25197649571,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+25199425508,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25208240013,÷è÷ë,57,nActEm011::ZigzagStep,Zigzag Step
+25227861218,÷è÷ë,68,nActEm011::LightningRunThroughG,Lightning Run Through G
+25250064621,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25257437798,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+25259199752,÷è÷ë,63,nActEm011::PeripheralLightning2,Peripheral Lightning2
+25286852756,÷è÷ë,45,nActEm011::Refresh,Refresh
+25307778541,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+25335224217,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+25344881270,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25353762273,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+25363490035,÷è÷ë,64,nActEm011::PeripheralLightning3,Peripheral Lightning3
+25391110168,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25399922998,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+25409350600,÷è÷ë,64,nActEm011::PeripheralLightning3,Peripheral Lightning3
+25436812914,÷è÷ë,45,nActEm011::Refresh,Refresh
+25440129386,÷è÷ë,79,nActEm011::DamageLow,Damage Low
+25450268438,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25457155706,÷è÷ë,61,nActEm011::GoroundContainingAfterR,Goround Containing After R
+25459027625,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+25468393021,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25475775546,÷è÷ë,61,nActEm011::GoroundContainingAfterR,Goround Containing After R
+25477715920,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+25500722095,÷è÷ë,79,nActEm011::DamageLow,Damage Low
+25510636002,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+25517967100,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+25519590063,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+25536927730,÷è÷ë,79,nActEm011::DamageLow,Damage Low
+25548737981,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+25563561981,÷è÷ë,83,nActEm011::DamageDown,Damage Down
+25672930803,÷è÷ë,64,nActEm011::PeripheralLightning3,Peripheral Lightning3
+25700781633,÷è÷ë,45,nActEm011::Refresh,Refresh
+25703313461,÷è÷ë,109,nActEm011::DamageClawGrabChance,Damage Claw Grab Chance
+25764868906,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+25804579513,÷è÷ë,74,nActEm011::CombatSign,Combat Sign
+25820920162,÷è÷ë,7,nActEm011::Dash,Dash
+25854623771,÷è÷ë,19,nActEm011::ClimbWall,Climb Wall
+25904287586,÷è÷ë,7,nActEm011::Dash,Dash
+25954815310,÷è÷ë,26,nActEm011::Search,Search
+25999885570,÷è÷ë,27,nActEm011::SearchHalfLostFlont,Search Half Lost Flont
+26028623408,÷è÷ë,44,nActEm011::RideRageThreat,Ride Rage Threat
+26075896951,÷è÷ë,27,nActEm011::SearchHalfLostFlont,Search Half Lost Flont
+26162267810,÷è÷ë,2,nActEm011::Turn,Turn
+26173683182,÷è÷ë,7,nActEm011::Dash,Dash
+26185635598,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+26224918171,÷è÷ë,45,nActEm011::Refresh,Refresh
+26245373036,÷è÷ë,49,nActEm011::BackKick,Back Kick
+26287010399,÷è÷ë,7,nActEm011::Dash,Dash
+26302462866,÷è÷ë,51,nActEm011::HeadButtRushOneLoop,Head Butt Rush One Loop
+26335065516,÷è÷ë,55,nActEm011::MultiLightningStrikeStart,Multi Lightning Strike Start
+26354815064,÷è÷ë,56,nActEm011::MultiLightningStrikeMain,Multi Lightning Strike Main
+26382761177,÷è÷ë,55,nActEm011::MultiLightningStrikeStart,Multi Lightning Strike Start
+26401440785,÷è÷ë,56,nActEm011::MultiLightningStrikeMain,Multi Lightning Strike Main
+26429869783,÷è÷ë,72,nActEm011::ChargeTransfer,Charge Transfer
+26479073582,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+26518602896,÷è÷ë,115,nActEm011::QuickTurn,Quick Turn
+26527260061,÷è÷ë,64,nActEm011::PeripheralLightning3,Peripheral Lightning3
+26554840698,÷è÷ë,52,nActEm011::ContinuousHeadSwing,Continuous Head Swing
+26585961801,÷è÷ë,48,nActEm011::SuperShockAttack,Super Shock Attack
+26626678866,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+26635803811,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+26663417552,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+26672604378,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+26700573762,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+26734078960,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+26741537373,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+26743682624,÷è÷ë,63,nActEm011::PeripheralLightning2,Peripheral Lightning2
+26771601099,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+26804175582,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+26813909177,÷è÷ë,62,nActEm011::PeripheralLightning1,Peripheral Lightning1
+26841441631,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+26873800546,÷è÷ë,59,nActEm011::GoroundContaining,Goround Containing
+26881194407,÷è÷ë,60,nActEm011::GoroundContainingAfterL,Goround Containing After L
+26882901928,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+26915191019,÷è÷ë,118,nActEm011::JumpTurn,Jump Turn
+26925021386,÷è÷ë,46,nActEm011::HeadButt,Head Butt
+26933921841,÷è÷ë,47,nActEm011::ShockAttack,Shock Attack
+26966840986,÷è÷ë,7,nActEm011::Dash,Dash
+26989440815,÷è÷ë,25,nActEm011::SniffL,Sniff L
+27029008762,÷è÷ë,26,nActEm011::Search,Search
+27073889092,÷è÷ë,24,nActEm011::SniffS,Sniff S
+27099761435,÷è÷ë,27,nActEm011::SearchHalfLostFlont,Search Half Lost Flont
+27128437500,÷è÷ë,25,nActEm011::SniffL,Sniff L
+27168086695,÷è÷ë,27,nActEm011::SearchHalfLostFlont,Search Half Lost Flont
+27196705926,÷è÷ë,25,nActEm011::SniffL,Sniff L
+27231678070,÷è÷ë,0,,
